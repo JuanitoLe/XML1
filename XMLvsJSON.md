@@ -229,7 +229,7 @@ Dans l'autre façon d'écrire des requêtes, cette dernière ressemblerait à :
 
 1. XML vs JSON
 
-transformer la structure XML en JSON
+Transformer la structure XML en JSON
 
 ```XML
 <employees>
