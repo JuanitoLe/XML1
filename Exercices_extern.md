@@ -74,7 +74,7 @@ Pareil avec le XML
 </persons>
  ```
 
-3. Convertir le JSON en objet JavaScript
+4. Convertir le JSON en objet JavaScript
 
 Convertissez le JSON, ...
 ```JSON
