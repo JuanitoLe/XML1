@@ -1,5 +1,5 @@
 # XML1
-##XMLvsJSON
+## XMLvsJSON
 
 XMLvsJSON est une documentation rédigée par Jean-Yves Le, Quentin Neves et Quentin Rossier dans le but d'un projet XML. Le but donc était de comparé deux langages de relatif à la gestion de données.
 
