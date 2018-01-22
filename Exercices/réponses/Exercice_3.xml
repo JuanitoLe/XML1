@@ -1,0 +1,22 @@
+<persons>
+	<person>
+		<firstName>John</firstName>
+		<lastName>doe</lastName>
+		<age>26</age>
+		<address>
+			<streetAddress>naist street</streetAddress>
+			<city>Nara</city>
+			<postalCode>630-0192</postalCode>
+		</address>
+		<phoneNumbers>
+			<type>iPhone</type>
+			<number>0123-4567-8888</number>
+		</phoneNumbers>
+		<phoneNumbers>
+			<type>home</type>
+			<number>0123-4567-8910</number>
+		</phoneNumbers>
+	</person>
+</persons>
+
+//persons/persons/phoneNumbers[@type='home'];

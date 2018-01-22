@@ -1,0 +1,13 @@
+{"mycars" :[
+	{"name":"Audi"},
+	{"name":"BMW"},
+	{"name":"Mercedes"},
+	{"name":"Volvo"}
+]}
+
+var my cars = [{name:"Audi"},{name:"BMW"},{name:"Mercedes"},{name:"Volvo"},];
+
+for (i in mycars)
+{
+	document.write(mycars[i].name + "<br>");
+}
